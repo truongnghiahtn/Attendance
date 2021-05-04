@@ -1,0 +1,214 @@
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\appsettings.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.exe
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.deps.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.runtimeconfig.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.runtimeconfig.dev.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.Views.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.Views.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\FluentValidation.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\MailKit.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\MimeKit.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Application.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Data.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.ViewModel.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Application.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Data.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.ViewModel.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.csprojAssemblyReference.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.AssemblyInfoInputs.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.AssemblyInfo.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.csproj.CoreCompileInputs.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.MvcApplicationPartsAssemblyInfo.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.MvcApplicationPartsAssemblyInfo.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorAssemblyInfo.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorAssemblyInfo.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\staticwebassets\AppAttendance.BE.StaticWebAssets.Manifest.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\staticwebassets\AppAttendance.BE.StaticWebAssets.xml
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\scopedcss\bundle\AppAttendance.BE.styles.css
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.TagHelpers.input.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.TagHelpers.output.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorCoreGenerate.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorTargetAssemblyInfo.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorTargetAssemblyInfo.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.Views.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.csproj.CopyComplete
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.genruntimeconfig.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.csprojAssemblyReference.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.AssemblyInfoInputs.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.AssemblyInfo.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.csproj.CoreCompileInputs.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorAssemblyInfo.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorAssemblyInfo.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.exe
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.deps.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.runtimeconfig.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.runtimeconfig.dev.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.Views.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.BE.Views.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\FluentValidation.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\MailKit.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\MimeKit.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Application.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Data.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.ViewModel.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Application.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.Data.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\bin\Release\netcoreapp3.1\AppAttendance.ViewModel.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\staticwebassets\AppAttendance.BE.StaticWebAssets.Manifest.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\staticwebassets\AppAttendance.BE.StaticWebAssets.xml
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\scopedcss\bundle\AppAttendance.BE.styles.css
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.TagHelpers.input.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.TagHelpers.output.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorCoreGenerate.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorTargetAssemblyInfo.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.RazorTargetAssemblyInfo.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.Views.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.csproj.CopyComplete
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.BE\obj\Release\netcoreapp3.1\AppAttendance.BE.genruntimeconfig.cache

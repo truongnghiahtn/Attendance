@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppAttendance.Data</id>
+    <version>1.0.0</version>
+    <authors>AppAttendance.Data</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="3.1.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="3.1.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.FileExtensions" version="3.1.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="3.1.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Debug\netcoreapp3.1\AppAttendance.Data.runtimeconfig.json" target="lib\netcoreapp3.1\AppAttendance.Data.runtimeconfig.json" />
+    <file src="E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Debug\netcoreapp3.1\AppAttendance.Data.dll" target="lib\netcoreapp3.1\AppAttendance.Data.dll" />
+  </files>
+</package>

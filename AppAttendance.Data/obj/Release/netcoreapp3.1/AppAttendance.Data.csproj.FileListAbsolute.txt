@@ -1,0 +1,24 @@
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.deps.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.runtimeconfig.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.runtimeconfig.dev.json
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.csprojAssemblyReference.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.AssemblyInfoInputs.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.AssemblyInfo.cs
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.csproj.CoreCompileInputs.cache
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.dll
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.pdb
+E:\dotnet\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.genruntimeconfig.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.deps.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.runtimeconfig.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.runtimeconfig.dev.json
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\bin\Release\netcoreapp3.1\AppAttendance.Data.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.csprojAssemblyReference.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.AssemblyInfoInputs.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.AssemblyInfo.cs
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.csproj.CoreCompileInputs.cache
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.dll
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.pdb
+C:\Users\Truong Nghia\Desktop\AppAttendanceSolution\AppAttendance.Data\obj\Release\netcoreapp3.1\AppAttendance.Data.genruntimeconfig.cache

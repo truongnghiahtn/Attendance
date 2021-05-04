@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>01a3f1ad-17ba-4205-897a-b20aa66d2a3f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppAttendance.Application\AppAttendance.Application.csproj" />
+    <ProjectReference Include="..\AppAttendance.Data\AppAttendance.Data.csproj" />
+    <ProjectReference Include="..\AppAttendance.ViewModel\AppAttendance.ViewModel.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="FluentValidation.AspNetCore" Version="9.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.2" />
+		<PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="wwwroot\user-content\" />
+	</ItemGroup>
+
+</Project>
