@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {}
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj",
         "projectName": "AppAttendance.Data",
-        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj",
+        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj",
         "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\obj\\",
+        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
         "projectName": "AppAttendance.ViewModel",
-        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
+        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\obj\\",
+        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -120,8 +120,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
-                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj"
+              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj"
               }
             }
           }
@@ -160,6 +160,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

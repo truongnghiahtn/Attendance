@@ -9414,11 +9414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\Admin.csproj",
+      "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\Admin.csproj",
       "projectName": "Admin",
-      "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\Admin.csproj",
+      "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\Admin.csproj",
       "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\obj\\",
+      "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -9439,11 +9439,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj": {
-              "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj"
+            "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj": {
+              "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj"
             },
-            "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
-              "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj"
+            "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+              "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj"
             }
           }
         }

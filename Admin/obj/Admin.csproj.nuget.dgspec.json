@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\Admin.csproj": {}
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\Admin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\Admin.csproj": {
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\Admin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\Admin.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\Admin.csproj",
         "projectName": "Admin",
-        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\Admin.csproj",
+        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\Admin.csproj",
         "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Admin\\obj\\",
+        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\Admin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,11 +32,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj": {
-                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj"
+              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj": {
+                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj"
               },
-              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
-                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj"
+              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj": {
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj",
         "projectName": "AppAttendance.Application",
-        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\AppAttendance.Application.csproj",
+        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\AppAttendance.Application.csproj",
         "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Application\\obj\\",
+        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -106,11 +106,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
-                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj"
+              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj"
               },
-              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {
-                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj"
+              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj",
         "projectName": "AppAttendance.Data",
-        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj",
+        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj",
         "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\obj\\",
+        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {
+    "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
         "projectName": "AppAttendance.ViewModel",
-        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
+        "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Truong Nghia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\obj\\",
+        "outputPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -272,8 +272,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj": {
-                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.Data\\AppAttendance.Data.csproj"
+              "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj": {
+                "projectPath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.Data\\AppAttendance.Data.csproj"
               }
             }
           }

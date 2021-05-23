@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U7vmkgklxVUKs9TPlO04SZeWZsyvyZnp71H6AtG0WIyS7HhiAGFcoy6SPVg2oLxpdP2wmuAwsbKpnccufs1V0Q==",
+  "dgSpecHash": "bmBsRNNDZvMmUaLj0CFhuob9yY0n6AGEp5400IgWBRH8xemqNxTr81icStWnLkDLpMgdI31uHOp4lMU26f9/rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
+  "projectFilePath": "C:\\Users\\Truong Nghia\\Desktop\\AppAttendanceSolution\\Attendance\\AppAttendance.ViewModel\\AppAttendance.ViewModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Truong Nghia\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
     "C:\\Users\\Truong Nghia\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.2.0\\fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
